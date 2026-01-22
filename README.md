@@ -1,7 +1,7 @@
 #  👋 Hi there, I'm Fabian, Lead Developer at [devsuit GmbH](https://github.com/devsuit-berlin)
 
 Together with my team, I create web applications and mobile apps, automate everything that can be automated, and continuously improve our tech stack.
-Always curious, always learning — especially when it comes to new tools, patterns, and technologies 🚀 You can also checkout my [blog :pencil2:](https://fabianclemenz.github.io)
+Always curious, always learning — especially when it comes to new tools, patterns, and technologies 🚀
 
 --
 
