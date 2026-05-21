@@ -12,8 +12,4 @@ Always curious, always learning — especially when it comes to new tools, patte
 - **Backend:** Python, FastAPI, Django
 - **Mobile Apps:** Capacitor, React Native
 - **DevOps:** Docker, CI/CD, Datadog
-
-## 📈 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true&theme=tokyonight" alt="Fabian Clemenz's GitHub stats" />
-</p>
+- **Ai:** Claude Code, Gemini, Copilot
