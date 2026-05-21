@@ -15,5 +15,5 @@ Always curious, always learning — especially when it comes to new tools, patte
 
 ## 📈 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true&theme=tokyonight" alt="Mrseams's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true&theme=tokyonight" alt="Fabian Clemenz's GitHub stats" />
 </p>
