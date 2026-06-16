@@ -21,10 +21,10 @@ pip install erdify
 
 📊 GitHub
 
-Stats (https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true)
-Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=FabianClemenz&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianClemenz&layout=compact)
 
 📫 Kontakt
 
-![Blog](https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue) (fabianclemenz.github.io)
-![Email](https://img.shields.io/badge/Email-fabian.clemenz%40devsuit.de-red?logo=gmail&logoColor=white) (fabian.clemenz@devsuit.de)
+[![Blog](https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue)](https://fabianclemenz.github.io)
+[![Email](https://img.shields.io/badge/Email-fabian.clemenz%40devsuit.de-red?logo=gmail&logoColor=white)](mailto:fabian.clemenz@devsuit.de)
