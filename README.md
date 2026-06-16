@@ -9,6 +9,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
 
 ### ⭐ Featured: erdify
 > Generate ER diagrams (Mermaid / JSON / HTML) from your database — a CLI for clean, transparent schema docs.
