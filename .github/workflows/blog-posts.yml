@@ -16,5 +16,5 @@ jobs:
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://fabianclemenz.github.io/index.xml"
+          feed_list: "https://fabianclemenz.github.io/posts/index.xml"
           max_post_count: 5
