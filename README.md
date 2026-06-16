@@ -26,5 +26,5 @@ Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian
 
 📫 Kontakt
 
-Blog (https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue)
+![Blog](https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue) (fabianclemenz.github.io)
 ![Email](https://img.shields.io/badge/Email-fabian.clemenz%40devsuit.de-red?logo=gmail&logoColor=white) (fabian.clemenz@devsuit.de)
