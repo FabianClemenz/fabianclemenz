@@ -13,7 +13,7 @@
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
 
 ### ⭐ Featured: erdify
-> Generate ER diagrams (PlantUML / Mermaid (+ self contained HTML) / JSON) from your database — a CLI for clean, transparent schema docs.
+> Generate ER diagrams (PlantUML / Mermaid / JSON / HTML) from your database — a CLI for clean, transparent schema docs.
 
 [![erdify](https://github-readme-stats.vercel.app/api/pin/?username=devsuit-berlin&repo=erdify&theme=default)](https://github.com/devsuit-berlin/erdify)
 
