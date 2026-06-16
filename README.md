@@ -13,8 +13,7 @@
 ### ⭐ Featured: erdify
 > Generate ER diagrams (Mermaid / JSON / HTML) from your database — a CLI for clean, transparent schema docs.
 
-[![erdify](https://github-readme-stats.vercel.app/api/pin/?username=FabianClemenz&repo=erdify&theme=default)](https://github.com/FabianClem
-enz/erdify)
+[![erdify](https://github-readme-stats.vercel.app/api/pin/?username=devsuit-berlin&repo=erdify&theme=default)](https://github.com/devsuit-berlin/erdify)
 
 ```bash
 pip install erdify
