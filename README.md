@@ -1,5 +1,5 @@
 <h1 align="center">Hi, ich bin Fabian 👋</h1>
-<p align="center">Lead Developer @ [devsuit GmbH](https://github.com/devsuit-berlin) — Web, Mobile & Developer Tools</p>
+<p align="center">Lead Developer @ <a href="https://github.com/devsuit-berlin" target="_blank">devsuit GmbH</a> — Web, Mobile & Developer Tools</p>
 
 ### 🛠️  Tech Stack
 ![Vue](https://img.shields.io/badge/Vue-35495E?logo=vuedotjs)
