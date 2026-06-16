@@ -21,12 +21,17 @@
 pip install erdify
 ```
 
-📊 GitHub
+### ✍️ Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<sub>📖 More at <a href="https://fabianclemenz.github.io">fabianclemenz.github.io</a></sub>
+
+### 📊 GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianClemenz&layout=compact)
 
-📫 Kontakt
+### 📫 Kontakt
 
 [![Blog](https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue)](https://fabianclemenz.github.io)
 [![Email](https://img.shields.io/badge/Email-fabian.clemenz%40devsuit.de-red?logo=gmail&logoColor=white)](mailto:fabian.clemenz@devsuit.de)
