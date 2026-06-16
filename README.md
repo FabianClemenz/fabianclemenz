@@ -25,7 +25,6 @@ pip install erdify
 <!-- BLOG-POST-LIST:START -->
 - [DigitalOcean App Platform X Datadog](https://fabianclemenz.github.io/posts/digitalocean-app-platform-x-datadog/)
 - [Basic Server Security](https://fabianclemenz.github.io/posts/basic-server-security/)
-- [About me](https://fabianclemenz.github.io/about/)
 - [Django 101: Switching the primary key on existing models](https://fabianclemenz.github.io/posts/django-101-switching-primary-key-on-existing-models/)
 <!-- BLOG-POST-LIST:END -->
 
