@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ich bin Fabian 👋</h1>
+<h1 align="center">Hi, i'm Fabian 👋</h1>
 <p align="center">Lead Developer @ <a href="https://github.com/devsuit-berlin" target="_blank">devsuit GmbH</a> — Web, Mobile & Developer Tools</p>
 
 ### 🛠️  Tech Stack
