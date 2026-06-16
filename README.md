@@ -1,15 +1,31 @@
-#  👋 Hi there, I'm Fabian, Lead Developer at [devsuit GmbH](https://github.com/devsuit-berlin)
+<h1 align="center">Hi, ich bin Fabian 👋</h1>
+<p align="center">Lead Developer @ [devsuit GmbH](https://github.com/devsuit-berlin) — Web, Mobile & Developer Tools</p>
 
-Together with my team, I create web applications and mobile apps, automate everything that can be automated, and continuously improve our tech stack.
-Always curious, always learning — especially when it comes to new tools, patterns, and technologies 🚀
+### 🛠️  Tech Stack
+![Vue](https://img.shields.io/badge/Vue-35495E?logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 💻 About Me
-- Read my [Blog](https://fabianclemenz.github.io)
-- Reach me [fabian.clemenz@devsuit.de](mailto:fabian.clemenz@devsuit.de)
+### ⭐ Featured: erdify
+> Generate ER diagrams (Mermaid / JSON / HTML) from your database — a CLI for clean, transparent schema docs.
 
-## 🛠️ Tech & Tools
-- **Frontend:** Vue, Nuxt
-- **Backend:** Python, FastAPI, Django
-- **Mobile Apps:** Capacitor, React Native
-- **DevOps:** Docker, CI/CD, Datadog
-- **Ai:** Claude Code, Gemini, Copilot
+[![erdify](https://github-readme-stats.vercel.app/api/pin/?username=FabianClemenz&repo=erdify&theme=default)](https://github.com/FabianClem
+enz/erdify)
+
+```bash
+pip install erdify
+```
+
+📊 GitHub
+
+Stats (https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true)
+Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=FabianClemenz&layout=compact)
+
+📫 Kontakt
+
+Blog (https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue)
+![Email](https://img.shields.io/badge/Email-fabian.clemenz%40devsuit.de-red?logo=gmail&logoColor=white) (fabian.clemenz@devsuit.de)
