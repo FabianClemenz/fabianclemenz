@@ -15,7 +15,9 @@
 ### ⭐ Featured: erdify
 > 🚀 Generate beautiful PlantUML Entity Relationship Diagrams from your SQLModel, SQLAlchemy, Django, Pydantic and dataclass models automatically!
 
-[![erdify](https://github-readme-stats.vercel.app/api/pin/?username=devsuit-berlin&repo=erdify&theme=default)](https://github.com/devsuit-berlin/erdify)
+[![erdify stars](https://img.shields.io/github/stars/devsuit-berlin/erdify?style=social)](https://github.com/devsuit-berlin/erdify)
+[![PyPI version](https://img.shields.io/pypi/v/erdify)](https://pypi.org/project/erdify/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/erdify)](https://pypi.org/project/erdify/)
 
 ```bash
 pip install erdify
@@ -31,8 +33,8 @@ pip install erdify
 <sub>📖 More at <a href="https://fabianclemenz.github.io">fabianclemenz.github.io</a></sub>
 
 ### 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=FabianClemenz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianClemenz&layout=compact)
+[![GitHub followers](https://img.shields.io/github/followers/FabianClemenz?style=social)](https://github.com/FabianClemenz)
+[![GitHub stars](https://img.shields.io/github/stars/FabianClemenz?style=social&label=Stars)](https://github.com/FabianClemenz)
 
 ### 📫 Kontakt
 
