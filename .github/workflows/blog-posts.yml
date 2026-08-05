@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update-readme:
@@ -18,3 +19,15 @@ jobs:
         with:
           feed_list: "https://fabianclemenz.github.io/posts/index.xml"
           max_post_count: 5
+          # main is protected ("changes must go through a PR"), so don't push
+          # directly and don't create keepalive dummy commits.
+          output_only: true
+          enable_keepalive: false
+      - name: Open PR with updated blog posts
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: update latest blog posts"
+          title: "chore: update latest blog posts"
+          body: "Automated update of the latest blog posts in the README."
+          branch: chore/update-blog-posts
+          delete-branch: true
