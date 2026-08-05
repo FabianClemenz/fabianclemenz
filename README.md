@@ -17,7 +17,7 @@
 
 [![erdify stars](https://img.shields.io/github/stars/devsuit-berlin/erdify?style=social)](https://github.com/devsuit-berlin/erdify)
 [![PyPI version](https://img.shields.io/pypi/v/erdify)](https://pypi.org/project/erdify/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/erdify)](https://pypi.org/project/erdify/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/erdify?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/erdify)
 
 ```bash
 pip install erdify
