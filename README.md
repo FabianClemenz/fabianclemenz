@@ -16,7 +16,9 @@
 ![AWS](img/badge-aws.svg)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### ⭐ Featured: erdify
+### ⭐ Featured projects
+
+#### [erdify](https://github.com/devsuit-berlin/erdify)
 > 🚀 Generate beautiful PlantUML Entity Relationship Diagrams from your SQLModel, SQLAlchemy, Django, Pydantic and dataclass models automatically!
 
 [![erdify stars](https://img.shields.io/github/stars/devsuit-berlin/erdify?style=social)](https://github.com/devsuit-berlin/erdify)
@@ -25,6 +27,17 @@
 
 ```bash
 pip install erdify
+```
+
+#### [erdify-studio](https://github.com/devsuit-berlin/erdify-studio)
+> 🎨 Arrange your erdify ERDs by drag and drop, commit the layout to git and keep it in sync in CI — no Node required!
+
+[![erdify-studio stars](https://img.shields.io/github/stars/devsuit-berlin/erdify-studio?style=social)](https://github.com/devsuit-berlin/erdify-studio)
+[![PyPI version](https://img.shields.io/pypi/v/erdify-studio)](https://pypi.org/project/erdify-studio/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/erdify-studio?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/erdify-studio)
+
+```bash
+pip install erdify-studio
 ```
 
 ### ✍️ Latest blog posts
