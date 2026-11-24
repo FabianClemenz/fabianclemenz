@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Fabian 👋</h1>
+<h1 align="center">Hi, I'm Fabian 👋</h1>
 <p align="center">Lead Developer @ <a href="https://github.com/devsuit-berlin" target="_blank">devsuit GmbH</a> — Web, Mobile & Developer Tools</p>
 
 ### 🛠️  Tech Stack
@@ -19,7 +19,7 @@
 ### ⭐ Featured projects
 
 #### [erdify](https://github.com/devsuit-berlin/erdify)
-> 🚀 Generate beautiful PlantUML Entity Relationship Diagrams from your SQLModel, SQLAlchemy, Django, Pydantic and dataclass models automatically!
+> 🚀 Generate ERDs (PlantUML, Mermaid, JSON, HTML) from your SQLModel, SQLAlchemy, Django, Pydantic, dataclass models and SQL DDL — zero dependencies, pure AST, no database required!
 
 [![erdify stars](https://img.shields.io/github/stars/devsuit-berlin/erdify?style=social)](https://github.com/devsuit-berlin/erdify)
 [![PyPI version](https://img.shields.io/pypi/v/erdify)](https://pypi.org/project/erdify/)
@@ -53,7 +53,7 @@ pip install erdify-studio
 [![GitHub followers](https://img.shields.io/github/followers/FabianClemenz?style=social)](https://github.com/FabianClemenz)
 [![GitHub stars](https://img.shields.io/github/stars/FabianClemenz?style=social&label=Stars)](https://github.com/FabianClemenz)
 
-### 📫 Kontakt
+### 📫 Contact
 
 [![Blog](https://img.shields.io/badge/Blog-fabianclemenz.github.io-blue)](https://fabianclemenz.github.io)
 [![Email](https://img.shields.io/badge/Email-fabian.clemenz%40devsuit.de-red?logo=gmail&logoColor=white)](mailto:fabian.clemenz@devsuit.de)
