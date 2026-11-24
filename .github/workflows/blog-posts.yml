@@ -13,7 +13,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -25,7 +25,7 @@ jobs:
           skip_commit: true
           enable_keepalive: false
       - name: Open PR with updated blog posts
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           commit-message: "chore: update latest blog posts"
           title: "chore: update latest blog posts"
