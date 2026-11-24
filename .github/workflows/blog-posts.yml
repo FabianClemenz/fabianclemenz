@@ -19,9 +19,10 @@ jobs:
         with:
           feed_list: "https://fabianclemenz.github.io/posts/index.xml"
           max_post_count: 5
-          # main is protected ("changes must go through a PR"), so don't push
-          # directly and don't create keepalive dummy commits.
-          output_only: true
+          # main is protected ("changes must go through a PR"): write the README
+          # but don't commit it (the next step opens a PR), and don't create
+          # keepalive dummy commits. output_only would skip writing the README.
+          skip_commit: true
           enable_keepalive: false
       - name: Open PR with updated blog posts
         uses: peter-evans/create-pull-request@v6
